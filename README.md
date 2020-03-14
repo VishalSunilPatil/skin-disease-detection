@@ -2,9 +2,9 @@
 
 Python3
 
-Model Link: 
+Model Link: https://drive.google.com/open?id=1Y7hyMjG88CKi7Owr-Z3xpgp9znchHbQZ
 
-Project Link: 
+Project Link: https://drive.google.com/open?id=14fDAigh07Eq-mvn2HB6jefWa0Z0P-5n6
 
 # run this project
 
